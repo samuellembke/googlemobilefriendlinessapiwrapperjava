@@ -18,7 +18,7 @@ Then add the following to your dependencies:
 <dependency>
     <groupId>com.github.samuellembke</groupId>
     <artifactId>googlemobilefriendlinessapiwrapperjava</artifactId>
-    <version>1.0.0-RELEASE</version>
+    <version>1.1.0-RELEASE</version>
 </dependency>
 ```
 
