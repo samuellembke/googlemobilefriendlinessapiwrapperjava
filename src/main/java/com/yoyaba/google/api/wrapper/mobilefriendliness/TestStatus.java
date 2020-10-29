@@ -1,6 +1,7 @@
 package com.yoyaba.google.api.wrapper.mobilefriendliness;
 
-import de.yoyaba.lembke.dashboard.backend.util.google.mobilefriendliness.enums.TestStatusEnum;
+
+import com.yoyaba.google.api.wrapper.mobilefriendliness.enums.TestStatusEnum;
 
 public class TestStatus {
 

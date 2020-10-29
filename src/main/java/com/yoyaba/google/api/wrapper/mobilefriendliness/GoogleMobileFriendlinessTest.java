@@ -1,5 +1,8 @@
 package com.yoyaba.google.api.wrapper.mobilefriendliness;
 
+import com.yoyaba.google.api.wrapper.mobilefriendliness.enums.MobileFriendlyRule;
+import com.yoyaba.google.api.wrapper.mobilefriendliness.enums.MobileFriendlyTestResult;
+import com.yoyaba.google.api.wrapper.mobilefriendliness.enums.TestStatusEnum;
 import okhttp3.*;
 import org.jetbrains.annotations.Nullable;
 import org.json.JSONArray;
